@@ -2,12 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Contains 3 versions,
-
-version 1 --> App.js is built using following hooks --> memo, useEffect, useState.
-version 2 --> App-v2.js is built using following hooks --> createContext, useContext.
-version 3 --> App-v3.js is built using following hooks --> useCallback, useMemo.
-
 The Atomic Blog project is about posting a simple blog by adding title and detail about your blog. You can also check and add archive post which is located below blog.
 
 # Getting Started
